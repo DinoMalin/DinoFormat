@@ -16,6 +16,9 @@ A basic commit can be separated in 3 categories:
 - ```- | Removed something``` - Example : When you delete a deprecated function,or remove some assets.
 
 
+The commit message should always begin by an uppercase letter. Whether you decide to use the preterit or not, you should always stick to it.
+
+
 ## Authors
 
 - [@DinoMalin](https://www.github.com/DinoMalin)
